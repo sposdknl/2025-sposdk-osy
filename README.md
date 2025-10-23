@@ -1,4 +1,5 @@
 # 2025-sposdk-osy
+
 Repositories for teaching purposes at SPOS DK
 
 ![Ucebna OSY AI](./Images/osy-classroom.png)
