@@ -10,6 +10,8 @@ Repository pro vyuku na SPOS DK
 ```console
 vagrant up
 vagrant ssh
+sudo su -
 cd /opt/repo/Install/Ansible/
+ansible-playbook -i inventory.ini -l bastion configure_servers.yml
 ```
 ...
