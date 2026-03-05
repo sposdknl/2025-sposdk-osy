@@ -7,4 +7,9 @@ Repository pro vyuku na SPOS DK
 
 - Red Hat Ansible Automation Platform  [Ansible](https://www.redhat.com/en/technologies/management/ansible)
 
+```console
+vagrant up
+vagrant ssh
+cd /opt/repo/Install/Ansible/
+```
 ...
